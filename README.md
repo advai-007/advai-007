@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Advaith
-- 🌱 I’m currently computer science engineering student.
+- 🌱 I’m currently a computer science and engineering student.
 - 📫 You can reach me on advaithk817@gmail.com
 
 <!---
