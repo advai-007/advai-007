@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Advaith
-- 👀 I’m interested in coding and new technologies
 - 🌱 I’m currently computer science engineering student.
 - 📫 You can reach me on advaithk817@gmail.com
 
